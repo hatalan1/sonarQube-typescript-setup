@@ -22,6 +22,6 @@ SonarTS detects bugs, vulnerabilities and code smells in TypeScript code.
 7. [Typescript testexecution and coverage config](https://docs.sonarqube.org/display/PLUG/TypeScript+Test+Execution+and+Coverage+Results+Import)
 8. [Tslint configurations](https://github.com/SonarSource/SonarTS#use-in-tslint)
 
-Refer the code base for setting up the project with static analysis tool.
+Refer the above code base for setting up the project with static analysis tool.
 
 
