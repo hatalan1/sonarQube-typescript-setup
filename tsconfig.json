@@ -1,0 +1,29 @@
+{   
+  "files":["./src/helloComponent/helloComponent.ts"],
+    "compileOnSave": false,
+    "compilerOptions": {
+      "module": "es2015",
+      "noImplicitAny": true,
+      "outDir": ".tmp",
+      "preserveConstEnums": true,
+      "removeComments": true,
+      "sourceMap": true,        
+      "experimentalDecorators": true,
+      "emitDecoratorMetadata": true,  
+      "target": "es2015",
+      "allowSyntheticDefaultImports": true
+    },
+    "lib": [
+        "dom",
+        "ES2015",
+        "es2015"
+      ],
+    "include": [
+      "./src/helloComponent/helloComponent.spec.ts",
+        "./src/helloComponent/helloComponent.ts"
+    ],
+    "exclude": [
+        "node_modules"
+      ]
+    
+  }

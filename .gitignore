@@ -1,0 +1,9 @@
+node_modules/
+.vscode/
+.idea
+.tmp/*
+*.code-workspace
+examples/*
+package-lock.json
+debug.log
+.scannerwork
