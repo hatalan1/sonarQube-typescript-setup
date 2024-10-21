@@ -3,7 +3,7 @@
     "rules": {
         /**
         * Security Rules. The following rules should be turned on because they find security issues
-        * or are recommended in the Microsoft Secure Development Lifecycle (SDL)
+        * or are recommended in the Microsoft Secure Development Lifecycle (SDL)test
         */
         //SonarQube recommended rules
         "cognitive-complexity": true,
